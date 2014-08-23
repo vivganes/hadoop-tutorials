@@ -1,6 +1,6 @@
 ## Community Tutorial 09: Write and Run Your Own MapReduce Java Program - Poll Result Analysis Using Hadoop, Java and Eclipse
 
-**This tutorial is from the Community part of tutorial for [Hortonworks Sandbox](http://hortonworks.com/products/sandbox) - a single-node Hadoop cluster running in a virtual machine. [Download](http://hortonworks.com/products/sandbox) the Hortonworks Sandbox to run this and other tutorials in the series.**
+**This tutorial is from the Community part of tutorial for [Hortonworks Data Platform Sandbox](http://hortonworks.com/products/hortonworks-sandbox/) - a single-node Hadoop cluster running in a virtual machine. [Download](http://hortonworks.com/products/hortonworks-sandbox/) the Hortonworks Data Platform Sandbox version 2.1 or above to run this and other tutorials in the series.**
 
 ### Introduction
 
@@ -10,7 +10,7 @@ Ever wanted to code your own [MapReduce](https://hadoop.apache.org/docs/r1.2.1/m
 
 To follow the steps in this tutorial, your computer must have the following items installed and running.
 
-1. Hortonworks Sandbox VM
+1. Hortonworks Data Platform Sandbox VM - Version 2.1 or above
 2. Java Version 6 Development & Runtime Environment (Open JDK is also good)
 3. Preferably a Java IDE like Eclipse (If you use any other IDE like Intellij Idea or Netbeans, that is ok).  This tutorial explains the steps using Eclipse.
 4. A working internet connection (to download the files mentioned in the tutorial
